@@ -1,9 +1,9 @@
 # COMER: Corpus Of Meal Entity Recognition
-**Data set name**: Corpus Of Meal Entity Recognition (COMER).
-**Citation**: Fernández, C., Heredia, M., Idoyaga, M., Solaun, A. & Vázquez, G. (2023). COMER: Corpus of Meal Entity Recognition. UPV/EHU.
-**Data set developer(s)**: Cristina Fernández, Maite Heredia, Mikel Idoyaga, Amaia Solaun and Gabriel Vázquez
-**Data statement authors**: Cristina Fernández, Maite Heredia, Mikel Idoyaga, Amaia Solaun and Gabriel Vázquez
-**Link to the dataset**: https://github.com/maihered/COMER-Corpus-Of-Meal-Entity-Recognition 
+**Data set name**: Corpus Of Meal Entity Recognition (COMER).<br>
+**Citation**: Fernández, C., Heredia, M., Idoyaga, M., Solaun, A. & Vázquez, G. (2023). COMER: Corpus of Meal Entity Recognition. UPV/EHU.<br>
+**Data set developer(s)**: Cristina Fernández, Maite Heredia, Mikel Idoyaga, Amaia Solaun and Gabriel Vázquez<br>
+**Data statement authors**: Cristina Fernández, Maite Heredia, Mikel Idoyaga, Amaia Solaun and Gabriel Vázquez<br>
+**Link to the dataset**: https://github.com/maihered/COMER-Corpus-Of-Meal-Entity-Recognition <br>
 **Dataset licence**: <br>
 Spanish corpus: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). <br>
 Basque corpus: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)<br>
